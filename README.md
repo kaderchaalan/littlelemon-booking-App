@@ -28,6 +28,3 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 - Run 'npm start' on the reserve-a-table folder
 
-### Author
-
-- [Ephrem Getachew](https://github.com/Ephrem2166)
